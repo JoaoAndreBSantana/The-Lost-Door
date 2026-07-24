@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="Golpe" format=3 uid="uid://biyme62d5pvcj"]
+
+[ext_resource type="Script" uid="uid://bhyvtsp708us1" path="res://scripts/objetos/golpe.gd" id="1_jejbj"]
+
+[resource]
+script = ExtResource("1_jejbj")
+nome = "Guarda Esquelética"
+custo_stamina = 10
+dano_base = 5
+descricao = "Defesa com ossos."
+custo_xp = 15
+categoria = "defesa"
+so_usar_se_hp_abaixo = 0.7
+metadata/_custom_type_script = "uid://bhyvtsp708us1"

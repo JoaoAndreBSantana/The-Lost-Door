@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="Golpe" format=3 uid="uid://dygt66dd4hu02"]
+
+[ext_resource type="Script" uid="uid://bhyvtsp708us1" path="res://scripts/objetos/golpe.gd" id="1_p7hyn"]
+
+[resource]
+script = ExtResource("1_p7hyn")
+nome = "Investida"
+custo_stamina = 5
+dano_base = 10
+recupera_hp = 5
+descricao = "Ataque básico que recupera Stamina"
+custo_xp = 20
+metadata/_custom_type_script = "uid://bhyvtsp708us1"

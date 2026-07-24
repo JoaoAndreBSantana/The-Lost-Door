@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="Golpe" format=3 uid="uid://c7nmwo721nciu"]
+
+[ext_resource type="Script" uid="uid://bhyvtsp708us1" path="res://scripts/objetos/golpe.gd" id="1_8rt0s"]
+
+[resource]
+script = ExtResource("1_8rt0s")
+nome = "Impacto pesado"
+custo_stamina = 15
+dano_base = 30
+descricao = "Golpe direto e forte"
+custo_xp = 60
+metadata/_custom_type_script = "uid://bhyvtsp708us1"

@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="Golpe" format=3 uid="uid://ctpb4f7fpciy7"]
+
+[ext_resource type="Script" uid="uid://bhyvtsp708us1" path="res://scripts/objetos/golpe.gd" id="1_he4l0"]
+
+[resource]
+script = ExtResource("1_he4l0")
+nome = "Lâmina Punk"
+custo_stamina = 8
+dano_base = 5
+efeito = "sangramento"
+descricao = "DANO: 20 EFEITO: SANGRAMENTO"
+custo_xp = 50
+inutil_se_efeito_ativo = "sangramento"
+metadata/_custom_type_script = "uid://bhyvtsp708us1"

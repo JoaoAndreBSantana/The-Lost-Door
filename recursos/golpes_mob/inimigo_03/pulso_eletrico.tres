@@ -1,0 +1,15 @@
+[gd_resource type="Resource" script_class="Golpe" format=3 uid="uid://dgk65v0swgaiy"]
+
+[ext_resource type="Script" uid="uid://bhyvtsp708us1" path="res://scripts/objetos/golpe.gd" id="1_vlje3"]
+
+[resource]
+script = ExtResource("1_vlje3")
+nome = "Pulso Eletrico"
+custo_stamina = 20
+dano_base = 20
+efeito = "turno_roubado"
+descricao = "Onda de energia que atrasa reações."
+custo_xp = 80
+categoria = "debuff"
+inutil_se_efeito_ativo = "turno_roubado"
+metadata/_custom_type_script = "uid://bhyvtsp708us1"

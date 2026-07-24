@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="RecursoNarrativa" format=3 uid="uid://bky7kg0ywvbhp"]
+
+[ext_resource type="Texture2D" uid="uid://c22fpsdybr68r" path="res://sprites/cena_intro.png" id="1_0oyng"]
+[ext_resource type="Script" uid="uid://xw20k6wqq1m3" path="res://scripts/core/recurso_narrativa.gd" id="1_k42my"]
+
+[resource]
+script = ExtResource("1_k42my")
+imagem_fundo = ExtResource("1_0oyng")
+nome_exibicao = "Pessoa Misteriosa"
+textos = Array[String](["Lucian... Você finalmente me ouve.", "Nada aqui é o que parece ser, e você precisa entender o que está acontecendo.", "Se você estiver com dúvidas, PRESSIONE [X] perto de um cidadão para pedir informação.", "Venha me encontrar. Estarei te esperando..."])
+proxima_cena = "uid://bb5cbdndcm2v0"
+metadata/_custom_type_script = "uid://xw20k6wqq1m3"

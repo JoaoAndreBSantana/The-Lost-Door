@@ -1,0 +1,15 @@
+[gd_resource type="Resource" script_class="Golpe" format=3 uid="uid://bnv7q0w6lx2cx"]
+
+[ext_resource type="Script" uid="uid://bhyvtsp708us1" path="res://scripts/objetos/golpe.gd" id="1_vyrji"]
+
+[resource]
+script = ExtResource("1_vyrji")
+nome = "Chute sonolento"
+custo_stamina = 12
+dano_base = 10
+efeito = "turno_roubado"
+descricao = "Chute que desorienta o alvo."
+custo_xp = 50
+prioridade_base = 12
+inutil_se_efeito_ativo = "turno_roubado"
+metadata/_custom_type_script = "uid://bhyvtsp708us1"

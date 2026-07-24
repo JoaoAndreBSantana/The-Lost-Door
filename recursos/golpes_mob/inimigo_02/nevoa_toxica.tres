@@ -1,0 +1,16 @@
+[gd_resource type="Resource" script_class="Golpe" format=3 uid="uid://d056uokoi3yns"]
+
+[ext_resource type="Script" uid="uid://bhyvtsp708us1" path="res://scripts/objetos/golpe.gd" id="1_6jv5x"]
+
+[resource]
+script = ExtResource("1_6jv5x")
+nome = "Névoa Tóxica"
+custo_stamina = 15
+recupera_hp = 5
+efeito = "veneno"
+descricao = "Gás venenoso pelo ambiente."
+custo_xp = 70
+categoria = "debuff"
+prioridade_base = 25
+inutil_se_efeito_ativo = "veneno"
+metadata/_custom_type_script = "uid://bhyvtsp708us1"

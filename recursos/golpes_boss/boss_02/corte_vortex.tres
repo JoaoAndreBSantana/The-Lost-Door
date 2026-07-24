@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="Golpe" format=3 uid="uid://bt0o4ynsfhyvx"]
+
+[ext_resource type="Script" uid="uid://bhyvtsp708us1" path="res://scripts/objetos/golpe.gd" id="1_v0s4x"]
+
+[resource]
+script = ExtResource("1_v0s4x")
+nome = "Corte Vortex"
+custo_stamina = 25
+dano_base = 30
+recupera_hp = 10
+descricao = "DANO: 50 EFEITO: NÃO POSSUI"
+custo_xp = 180
+prioridade_base = 15
+metadata/_custom_type_script = "uid://bhyvtsp708us1"

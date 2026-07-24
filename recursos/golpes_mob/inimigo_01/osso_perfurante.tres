@@ -1,0 +1,15 @@
+[gd_resource type="Resource" script_class="Golpe" format=3 uid="uid://2eysu3fbuhnq"]
+
+[ext_resource type="Script" uid="uid://bhyvtsp708us1" path="res://scripts/objetos/golpe.gd" id="1_qxk2q"]
+
+[resource]
+script = ExtResource("1_qxk2q")
+nome = "Osso Perfurante"
+custo_stamina = 10
+dano_base = 15
+efeito = "sangramento"
+descricao = "Corte com osso afiado."
+custo_xp = 40
+prioridade_base = 12
+inutil_se_efeito_ativo = "sangramento"
+metadata/_custom_type_script = "uid://bhyvtsp708us1"

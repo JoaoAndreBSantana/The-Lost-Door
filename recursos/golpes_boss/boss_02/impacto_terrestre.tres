@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="Golpe" format=3 uid="uid://4vb38suiqf4h"]
+
+[ext_resource type="Script" uid="uid://bhyvtsp708us1" path="res://scripts/objetos/golpe.gd" id="1_jyxja"]
+
+[resource]
+script = ExtResource("1_jyxja")
+nome = "Impacto Terrestre"
+custo_stamina = 30
+dano_base = 40
+descricao = "DANO: 55 EFEITO: NÃO POSSUI"
+custo_xp = 150
+prioridade_base = 15
+metadata/_custom_type_script = "uid://bhyvtsp708us1"

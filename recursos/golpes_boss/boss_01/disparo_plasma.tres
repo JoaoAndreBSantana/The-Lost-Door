@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="Golpe" format=3 uid="uid://ckr7uaw3q6da7"]
+
+[ext_resource type="Script" uid="uid://bhyvtsp708us1" path="res://scripts/objetos/golpe.gd" id="1_iam73"]
+
+[resource]
+script = ExtResource("1_iam73")
+nome = "Disparo de Plasma"
+custo_stamina = 25
+dano_base = 30
+recupera_hp = 5
+descricao = "DANO: 30 EFEITO: NÃO POSSUI"
+custo_xp = 40
+metadata/_custom_type_script = "uid://bhyvtsp708us1"

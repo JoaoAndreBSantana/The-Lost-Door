@@ -1,0 +1,15 @@
+[gd_resource type="Resource" script_class="Golpe" format=3 uid="uid://c0u148pyjqp6r"]
+
+[ext_resource type="Script" uid="uid://bhyvtsp708us1" path="res://scripts/objetos/golpe.gd" id="1_2mx6a"]
+
+[resource]
+script = ExtResource("1_2mx6a")
+nome = "Choque Potente"
+custo_stamina = 20
+dano_base = 15
+efeito = "atordoar"
+descricao = "Ataque que pode paralisar oponente."
+custo_xp = 50
+prioridade_base = 20
+inutil_se_efeito_ativo = "atordoar"
+metadata/_custom_type_script = "uid://bhyvtsp708us1"

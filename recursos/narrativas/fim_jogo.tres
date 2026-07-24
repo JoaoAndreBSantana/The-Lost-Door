@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="RecursoNarrativa" format=3 uid="uid://cu8wcasy10g02"]
+
+[ext_resource type="Texture2D" uid="uid://b0b7ygnutgx6c" path="res://sprites/lucian_cena_final.png" id="1_0l0h8"]
+[ext_resource type="Script" uid="uid://xw20k6wqq1m3" path="res://scripts/core/recurso_narrativa.gd" id="1_p4345"]
+
+[resource]
+script = ExtResource("1_p4345")
+imagem_fundo = ExtResource("1_0l0h8")
+nome_exibicao = "Lucian"
+textos = Array[String](["Conseguimos... Finalmente tudo isso acabou.", "Obrigado por me acompanhar nessa jornada e por não me deixar desistir pelo caminho.", "Muito obrigado por jogar!"])
+proxima_cena = "uid://jiwwer3ujo8t"
+metadata/_custom_type_script = "uid://xw20k6wqq1m3"

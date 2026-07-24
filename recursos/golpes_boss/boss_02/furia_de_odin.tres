@@ -1,0 +1,15 @@
+[gd_resource type="Resource" script_class="Golpe" format=3 uid="uid://c2shx4f454ial"]
+
+[ext_resource type="Script" uid="uid://bhyvtsp708us1" path="res://scripts/objetos/golpe.gd" id="1_bqhax"]
+
+[resource]
+script = ExtResource("1_bqhax")
+nome = "Fúria de Odin"
+custo_stamina = 15
+dano_base = 25
+efeito = "atordoar"
+descricao = "DANO: 35 EFEITO: ATORDOAR"
+custo_xp = 200
+categoria = "debuff"
+inutil_se_efeito_ativo = "atordoar"
+metadata/_custom_type_script = "uid://bhyvtsp708us1"
