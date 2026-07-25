@@ -46,7 +46,6 @@ res://
 ├── scripts/        # Scripts organizados por domínio
 ├── sons/           # Trilhas sonoras
 ├── sprites/        # Personagens, cenários e interface
-└── imagens/        # Artes utilizadas na documentação
 ```
 
 ---
